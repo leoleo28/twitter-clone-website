@@ -4,8 +4,9 @@
 ### Overview
 This is a twitter clone website
 * Used: Next.js, TypeScript, React, Prisma, MongoDB, NextAuth, Tailwind
-* Implemented user authentication with NextAuth and protected API routes with NextAuth sessions
+* Optimized data fetching with the SWR library, ensuring efficient content delivery and automatic data revalidation
+* Implemented secure user authentication with NextAuth and protected API routes using NextAuth sessions
 * Developed a responsive frontend with Tailwind CSS and Next.js
-* Created a social media platform that included features such as posting, liking, commenting, following, and notification
+* Created essential social media features such as posting, liking, commenting, following and notification
 
 
